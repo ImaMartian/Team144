@@ -10,6 +10,7 @@ html {
 .navbar {
 	font-size: 25px;
 	font-family: "Arial Black", sans-serif;
+	position: relative;
 }
 
 .content {
